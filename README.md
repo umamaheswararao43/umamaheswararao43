@@ -1,3 +1,8 @@
+👋 About Me
+
+I am a B.Tech graduate in Artificial Intelligence & Machine Learning with a strong foundation in Python, data analysis, and automation. I enjoy building real-world projects like AI chatbots, image classification models, and efficient software systems.
+
+I have hands-on experience with AI/ML, NLP, and data-driven solutions, and I’m passionate about solving problems through code. Currently exploring new technologies and continuously improving my development skills.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/uma-maheswarao-gajula-787195334) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajagajula186@gmail.com) 
